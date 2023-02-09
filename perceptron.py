@@ -20,7 +20,7 @@ def activacion (pesos,x,b):
 
 pesos=np.random.uniform(-1,1,size=2)
 b=np.random.uniform(-1,1)
-pesos,b,activacion(pesos,[0.5,0.5],b)
+pesos,b,activacion(pesos,[1,1],b)
 
 pesos=np.random.uniform(-1,1,size=2)
 b=np.random.uniform(-1,1)
